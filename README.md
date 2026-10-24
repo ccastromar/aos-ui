@@ -1,3 +1,7 @@
+> **This repository is archived.** The AOS console now lives in the `ui/` folder of
+> [aos-agentic-orchestration-system](https://github.com/ccastromar/aos-agentic-orchestration-system/tree/main/ui),
+> with this repository's history. Open issues and changes there.
+
 # AOS UI
 
 Web console of AOS, the *operate* vertex of the Chestertown trilogy: start predefined
